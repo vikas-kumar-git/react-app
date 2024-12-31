@@ -5,7 +5,7 @@ import Home from './screens/Home';
 function App() {
   return (
     <>
-  <screens><Home/></screens>
+      <screens><Home /></screens>
 
     </>
   );
